@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Large/raw data
+data/raw/
+raw/
+downloads/
+
+# Duplicate local data copies
+* (1).csv
+* (2).csv
+* (3).csv
+* (4).csv
+* (5).csv
+* (6).csv
+* (7).csv
+* - Copy.csv
+*_copy.csv
